@@ -101,6 +101,28 @@
     margin-left: 100px;
     max-width: 530px;
 }
+/* features */
+#feature-section-tittle{
+    border-left:5px solid #FF900E ;
+    padding-left: 20px;
+}
+.feature-card-container .feature-tittle{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+
+}
+.feature-card-container{
+    padding: 30px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+.Features{
+    gap: 140px;
+}
 
 
 /* some fact related style */
